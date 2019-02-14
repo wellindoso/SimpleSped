@@ -1,0 +1,18 @@
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\bin\Debug\simpleSpedNFCE 2.0.exe.config
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\bin\Debug\simpleSpedNFCE 2.0.exe
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\bin\Debug\simpleSpedNFCE 2.0.pdb
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.csprojResolveAssemblyReference.cache
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE_2._0.Form1.resources
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE_2._0.Properties.Resources.resources
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.csproj.GenerateResource.Cache
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.exe
+c:\users\mello\documents\visual studio 2013\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.pdb
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\bin\Debug\simpleSpedNFCE 2.0.exe.config
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.exe
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.pdb
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\bin\Debug\simpleSpedNFCE 2.0.exe
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\bin\Debug\simpleSpedNFCE 2.0.pdb
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE_2._0.Form1.resources
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE_2._0.Properties.Resources.resources
+C:\Users\Suporte2\Documents\Visual Studio 2012\Projects\simpleSpedNFCE 2.0\simpleSpedNFCE 2.0\obj\Debug\simpleSpedNFCE 2.0.csproj.GenerateResource.Cache
